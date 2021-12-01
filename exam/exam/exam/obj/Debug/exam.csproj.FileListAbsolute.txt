@@ -1,0 +1,9 @@
+C:\Users\АНДРЕЙ\Desktop\exam\exam\exam\bin\Debug\exam.exe
+C:\Users\АНДРЕЙ\Desktop\exam\exam\exam\bin\Debug\exam.pdb
+C:\Users\АНДРЕЙ\Desktop\exam\exam\exam\obj\Debug\exam.csproj.AssemblyReference.cache
+C:\Users\АНДРЕЙ\Desktop\exam\exam\exam\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\АНДРЕЙ\Desktop\exam\exam\exam\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\АНДРЕЙ\Desktop\exam\exam\exam\obj\Debug\exam.csproj.GenerateResource.cache
+C:\Users\АНДРЕЙ\Desktop\exam\exam\exam\obj\Debug\exam.csproj.CoreCompileInputs.cache
+C:\Users\АНДРЕЙ\Desktop\exam\exam\exam\obj\Debug\exam.exe
+C:\Users\АНДРЕЙ\Desktop\exam\exam\exam\obj\Debug\exam.pdb
